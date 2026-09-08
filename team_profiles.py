@@ -56,10 +56,10 @@ def get_initial_team() -> List[TeamMember]:
         # ----------------------------------------------------------------------
         TeamMember(
             student_id="232000006",  # example: "2024-10456"
-            full_name="Tristan Bienio", # example: "Juan Dela Cruz"
+            full_name="Tristan Bisenio", # example: "Juan Dela Cruz"
             role="Backend & State Engineer",
             specialization="State Mutation & Event Handlers",
-            github_handle="@dev2-github",          # example: "@jdelacruz-cspc"
+            github_handle="@tan-biz",          # example: "@jdelacruz-cspc"
             avatar_icon=ft.Icons.DATA_OBJECT,
             accent_color=ft.Colors.AMBER_800,
             photo_url="/dev2.jpg",                 # Photo: local asset or URL (e.g. "https://github.com/dev2-github.png")
