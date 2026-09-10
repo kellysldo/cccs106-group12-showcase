@@ -1,0 +1,35 @@
+*   fa4170d Merge pull request #5 from kellysldo/feature/dev1-profile
+|\  
+| * 371472b docs(screenshots): add laboratory verification proofs and feat(profile): integrate developer 1 profile card
+| * b2ae4cf feat(profile): integrate developer 1 profile card
+* |   9988ac1 Merge pull request #4 from kellysldo/feature/dev2-state
+|\ \  
+| * | dc073b0 Add files via upload
+* | | 979a0ce Delete Downloads/cccs106-group12-showcase-main (1)/cccs106-group12-showcase-main/screenshots directory
+* | | 36ee70d Delete Desktop/cccs106-group12-showcase-main/screenshots directory
+| |/  
+|/|   
+* |   c533926 Merge branch 'main' of https://github.com/kellysldo/cccs106-group12-showcase
+|\ \  
+| * \   4f143c6 Merge pull request #3 from kellysldo/feature/dev2-state
+| |\ \  
+| | |/  
+| | * 3ee6ab7 Update team_profiles.py
+| * |   7c13cf0 Merge pull request #2 from kellysldo/feature/dev2-state
+| |\ \  
+| | |/  
+| | * 7d0cc98 Update team_profiles.py
+| * | 727d02d Delete assets/dev1.png
+| * | c9c06be Add files via upload
+| * | 0c25ac1 feat(milestone): integrate developer 3 profile and sprint goal milestone badge
+| |/  
+| *   e15e295 Merge pull request #1 from kellysldo/feature/dev2-state
+| |\  
+| | * cd4c84e feat(state): integrate developer 2 profile and task counter handlers
+| * | 07ad32f docs(screenshots): add laboratory verification proofs
+| * | 67583d8 feat(profile): integrate developer 1 profile card
+| * | eae0784 feat(profile): integrate developer 1 profile card
+| |/  
+| * b467486 chore(init): baseline repository with modern flet app and verification tool
+* 5de01c8 docs(screenshots): add laboratory verification proofs
+* e012785 docs(screenshots): add laboratory verification proofs
