@@ -199,3 +199,4 @@ def build_profile_card(member: TeamMember) -> ft.Container:
             offset=ft.Offset(0, 2),
         ),
     )
+# Reviewed and finalized by Developer 3 (Rizelyn Joy C. Borbe)
