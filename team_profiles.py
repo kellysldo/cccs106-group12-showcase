@@ -42,13 +42,13 @@ def get_initial_team() -> List[TeamMember]:
         # ----------------------------------------------------------------------
         TeamMember(
             student_id="2411287",  # example: "2024-10123"
-            full_name="Kelly Saldo", # example: "Maria Clara Santos"
+            full_name="Kelly A. Saldo", # example: "Maria Clara Santos"
             role="Lead Frontend UI Developer",
             specialization="Flet Reactive Widgets & Material 3 Layouts",
             github_handle="@kellysldo",          # example: "@mariaclara-cspc"
             avatar_icon=ft.Icons.PALETTE,
             accent_color=ft.Colors.TEAL_700,
-            photo_url="https://github.com/kellysldo.png",                 # Photo: local asset or URL (e.g. "https://github.com/kellysldo.png")
+            photo_url="/dev1.jpg",                 # Photo: local asset or URL (e.g. "https://github.com/kellysldo.png")
         ),
         # ----------------------------------------------------------------------
         # TODO: [DEVELOPER 2 TASK] - Branch: feature/dev2-state
